@@ -1,3 +1,5 @@
 streamlit
+openai
+anthropic
 groq
 python-dotenv
